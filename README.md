@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL Shortener API
 
 A backend URL shortener built with Node.js, Express, TypeScript, Prisma, PostgreSQL, and Zod.
@@ -105,3 +106,6 @@ prisma/
 - User authentication
 - Custom short codes
 - Deployment to a production hosting platform
+=======
+# url-shortener
+>>>>>>> bb38ce9eaf79daaa1b1d41b7a2fa7f67b56a22ca
